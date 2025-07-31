@@ -131,6 +131,8 @@ plt.show()
 # True aliasing would require further processing (e.g., FFT) to showcase
 # the "folded" frequencies in the frequency domain.
 ```
+<img width="482" height="409" alt="Snipaste_2025-07-31_20-35-29" src="https://github.com/user-attachments/assets/e27caf33-4e54-49a3-a764-56f64c0d142d" />
+<img width="482" height="409" alt="Snipaste_2025-07-31_20-35-45" src="https://github.com/user-attachments/assets/2ce7539e-7d46-4820-84f9-281be43d3d03" />
 
 ### Bit Depth Explained
 
