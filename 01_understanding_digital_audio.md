@@ -106,11 +106,11 @@ import matplotlib.pyplot as plt
 
 # Generate a high-frequency sine wave (above the Nyquist frequency)
 sampling_rate = 44100  # Sample rate in Hz
-nyquist_freq = sampling_rate / 2
+nyquist_freq = sampling_rate / 2 
 frequency = 30000  # Frequency of the sine wave
 duration = 1  # Duration of the signal in seconds
 t = np.linspace(0, duration, int(sampling_rate * duration), endpoint=False)
-signal = np.sin(2 * np.pi * frequency * t)
+signal = np.sin(2 * np.pi * frequency * t)  #signal = np.sin(2πft)
 
 # Plot the signal
 plt.plot(t[:1000], signal[:1000])  # Plot only the first 1000 samples for clarity
