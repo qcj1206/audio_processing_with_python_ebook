@@ -148,8 +148,9 @@ The **dynamic range** is the difference between the loudest and quietest sounds 
 
 - **16-bit:** CD audio quality. Offers a dynamic range of approximately 96 dB.
   
-                                    (Dynamic Range (dB)=20⋅log10(2^n)
-                                    20⋅log10(2^16)=20⋅16⋅log10(2)≈20⋅16⋅0.3010≈96.33 dB)
+                                    Dynamic Range (dB)=20⋅log10(2^n)
+                                    20⋅log10(2^16)=20⋅16⋅log10(2)≈20⋅16⋅0.3010≈96.33 dB
+  
 - **24-bit:** Commonly used in professional audio. Offers around 144 dB of dynamic range.
 - **32-bit:** Used for high-resolution audio and processing.
 
